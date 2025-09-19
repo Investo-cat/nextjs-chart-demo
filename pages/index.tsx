@@ -2,7 +2,7 @@
 
 import { LineChart, PieChart } from "react-shadcn-charts";
 import "react-shadcn-charts/dist/index.css";
-import { lineChartData, pieChartData } from "./data";
+import { lineChartData, pieChartData } from "../data";
 
 export default function Home() {
   return (
